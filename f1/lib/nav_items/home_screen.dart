@@ -33,9 +33,9 @@ class HomeScreen extends StatelessWidget {
                       begin: Alignment.topLeft,
                       end: Alignment.bottomRight,
                       colors: [
-                        Color.fromARGB(255, 215, 215, 94),
-                        Color.fromARGB(255, 203, 199, 156),
-                        Color.fromARGB(255, 172, 212, 174),
+                        Color.fromARGB(255, 71, 220, 68),
+                        Color.fromARGB(255, 5, 255, 138),
+                        Color.fromARGB(255, 40, 148, 194),
                       ]),
                   boxShadow: [
                     BoxShadow(

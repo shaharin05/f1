@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
         appBar: AppBar(
           elevation: 3,
           leading: const Icon(Icons.home),
-          title: const Text('AlaminNaki'),
+          title: const Text('Showvi'),
           centerTitle: true,
           actions: const [
             Icon(Icons.menu),
