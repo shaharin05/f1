@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                   ]),
               child: Padding(
                 padding: const EdgeInsets.fromLTRB(20, 10, 20, 10),
-                child: CustomText(text: 'Test 2'),
+                child: CustomText(text: 'Ha Ha'),
               ),
               // ],
             ),
